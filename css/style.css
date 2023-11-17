@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: skyblue;
+}
+.layout{
+    width: 50px;
+    margin: 0 auto;
+}
+.row1{
+    height: 60px;
+    width: 100%;
+    background-color: red;
+}
+.header_section{
+    height: 100%;
+    width: 90%;
+
+}
+.logo{}
+.logo h3{}
+.menu ul{}
+menu ul li a{}
+.blog_btn{}
+.search_bar{}
+.search_bar input{}
+.search_bar i{}
