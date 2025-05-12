@@ -61,6 +61,7 @@ body{
     font-size: 40px;
     text-transform: uppercase;
     text-align: center;
+    padding: 10px;
 }
 .banner_section p{
     text-align: justify;
@@ -79,6 +80,9 @@ body{
     height: 360px;
     background-color: white;
     padding-left: 30px;
+}
+h3{
+    align-content: center;
 }
 .service_section{}
 .service_section h3{
@@ -108,4 +112,43 @@ body{
 .service_item p{
 
 }
+ 
+/******************Portfolio Section ************************/
 
+#row4{
+    width: 100%;
+
+}
+.portfolio_section{}
+.portfolio_top{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+
+}
+.portfolio_title{}
+.portfolio_title h3{}
+.portfolio_more{}
+.portfolio_more button{} 
+.portfolio_button{
+    display: flex;
+    justify-content: space-between;
+}
+.portfolio_card{
+    width: 250px;
+    height: 100%;
+    position: absolute;
+}
+.portfolio_card img{
+    width: 250px;
+    height: 100%;
+}
+.portfolio_card i{}
+.portfolio_card h3{}
+.portfolio_card p{}
+footer{
+    align-content: center;
+}
+#portfolio{
+    background: url(../images/download\ \(1\).jpeg);
+}
